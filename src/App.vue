@@ -37,19 +37,19 @@
     </v-app-bar>
 
     <v-content>
-      <HelloWorld/>
+      <Videos/>
     </v-content>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
+import Videos from './components/Videos';
 
 export default {
   name: 'App',
 
   components: {
-    HelloWorld,
+    Videos,
   },
 
   data: () => ({
