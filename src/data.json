@@ -35,7 +35,8 @@
     "title": "Django e VueJS #04 - Django Rest Framework e VueJS",
     "tags": [
       "django",
-      "vuejs"
+      "vuejs",
+      "drf"
     ],
     "url": "https://www.youtube.com/watch?v=IkgG3piJ8KI",
     "thumbnail": "https://i.ytimg.com/vi/IkgG3piJ8KI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCKB8rpsQpI8BSXmgLmwUihpLgUqQ"
@@ -45,7 +46,8 @@
     "title": "Backend e Frontend - Live com Alefe Souza",
     "tags": [
       "django",
-      "vuejs"
+      "vuejs",
+      "drf"
     ],
     "url": "https://www.youtube.com/watch?v=GAuyC5khFoc",
     "thumbnail": "https://i.ytimg.com/vi/GAuyC5khFoc/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCmtoO1GKcSQtHFVbplX3EMiJDecw"

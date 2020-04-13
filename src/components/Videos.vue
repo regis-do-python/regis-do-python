@@ -15,7 +15,7 @@
                       </div>
                     </v-card-title>
                     <v-card-subtitle>
-                      <a v-for="tag in video.tags" :key="tag">#{{ tag }} </a>
+                      <a v-for="tag in video.tags" :key="tag" @click.prevent="selectedTag = tag">#{{ tag }} </a>
                     </v-card-subtitle>
                   </v-card>
                 </v-item>
@@ -34,13 +34,17 @@ export default {
   name: 'Videos',
   props: ['search'],
   data() {
-    return { ...data };
+    return { ...data, selectedTag: '' };
   },
   computed: {
     filteredItems() {
       return this.videos.filter((item) => {
         return item.title.toLowerCase().indexOf(this.search.toLowerCase()) >= 0;
-      })
+      }).filter((item) => {
+        if (!this.selectedTag) { return true; }
+
+        return item.tags.includes(this.selectedTag);
+      });
     }
   }
 }
