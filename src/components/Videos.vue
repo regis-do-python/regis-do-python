@@ -5,7 +5,7 @@
         <v-item-group multiple>
           <v-container>
             <v-row>
-              <v-col v-for="video in videos" :key="video.id" cols="12" md="4">
+              <v-col v-for="video in filteredItems" :key="video.id" cols="12" md="4">
                 <v-item>
                   <v-card class="mx-auto" max-width="344" min-height="320">
                     <v-img :src="video.thumbnail" height="200px"></v-img>
@@ -33,7 +33,14 @@ import data from '../data.json';
 export default {
   name: 'Videos',
   data() {
-    return { ...data };
+    return { ...data, search: '' };
+  },
+  computed: {
+    filteredItems() {
+      return this.videos.filter((item) => {
+        return item.title.toLowerCase().indexOf(this.search.toLowerCase()) >= 0;
+      })
+    }
   }
 }
 </script>
