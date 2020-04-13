@@ -26,6 +26,7 @@
       >
         <v-text-field
           :append-icon-cb="() => {}"
+          v-model="search"
           placeholder="Search..."
           outlined
           append-icon="mdi-magnify"
@@ -37,7 +38,7 @@
     </v-app-bar>
 
     <v-content>
-      <Videos/>
+      <Videos :search="search"/>
     </v-content>
   </v-app>
 </template>
@@ -53,7 +54,7 @@ export default {
   },
 
   data: () => ({
-    //
+    'search': ''
   }),
 };
 </script>

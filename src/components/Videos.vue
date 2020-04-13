@@ -32,8 +32,9 @@ import data from '../data.json';
 
 export default {
   name: 'Videos',
+  props: ['search'],
   data() {
-    return { ...data, search: '' };
+    return { ...data };
   },
   computed: {
     filteredItems() {
