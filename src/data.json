@@ -1,6 +1,19 @@
 {
   "videos": [
   {
+    "id": 0,
+    "title": "PostgreSQL, Django, Docker, Schemas e PLPython com Juliano Atanazio",
+    "tags": [
+      "postgresql",
+      "django",
+      "docker",
+      "schema",
+      "plpython"
+    ],
+    "url": "https://www.youtube.com/watch?v=ABGbZYY4e3o",
+    "thumbnail": "https://i.ytimg.com/vi/ABGbZYY4e3o/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA0e9OO4blNmQYmb7oq_VCCoIfhBw"
+  },
+  {
     "id": 1,
     "title": "Django e VueJS #01 - arquivos estáticos via cdn",
     "tags": [

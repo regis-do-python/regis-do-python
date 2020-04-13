@@ -5,10 +5,10 @@
         <v-item-group multiple>
           <v-container>
             <v-row>
-              <v-col v-for="video in filteredItems" :key="video.id" cols="12" md="4">
+              <v-col v-for="video in filteredItems" :key="video.id" cols="12" md="3">
                 <v-item>
-                  <v-card class="mx-auto" max-width="344" min-height="320">
-                    <v-img :src="video.thumbnail" height="200px"></v-img>
+                  <v-card class="mx-auto" max-width="260" min-height="320">
+                    <v-img :src="video.thumbnail" width="260px"></v-img>
                     <v-card-title>
                       <div style="font-size: 15px">
                         <a :href="video.url" target="_blank" style="word-break: break-word !important;">{{ video.title }}</a>
