@@ -39,10 +39,9 @@ export default {
   computed: {
     filteredItems() {
       return this.videos.filter((item) => {
-        return item.title.toLowerCase().indexOf(this.search.toLowerCase()) >= 0;
+        return item.title.toLowerCase().indexOf(this.search.toLowerCase()) >= 0 || item.tags.includes(this.search.toLowerCase());
       }).filter((item) => {
         if (!this.selectedTag) { return true; }
-
         return item.tags.includes(this.selectedTag);
       });
     }

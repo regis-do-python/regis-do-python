@@ -33,6 +33,7 @@
           color="white"
           hide-details
         />
+        <v-btn class="ml-3"><a href="." style="text-decoration: none; color: #fff">Clear</a></v-btn>
       </v-row>
 
     </v-app-bar>
