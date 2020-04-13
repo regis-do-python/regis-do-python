@@ -1,7 +1,18 @@
 {
   "videos": [
   {
-    "id": 0,
+    "id": 1,
+    "title": "Backend e Frontend - Live com Alefe Souza",
+    "tags": [
+      "django",
+      "drf",
+      "vuejs"
+    ],
+    "url": "https://www.youtube.com/watch?v=GAuyC5khFoc",
+    "thumbnail": "https://i.ytimg.com/vi/GAuyC5khFoc/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCmtoO1GKcSQtHFVbplX3EMiJDecw"
+  },
+  {
+    "id": 2,
     "title": "PostgreSQL, Django, Docker, Schemas e PLPython com Juliano Atanazio",
     "tags": [
       "postgresql",
@@ -14,7 +25,7 @@
     "thumbnail": "https://i.ytimg.com/vi/ABGbZYY4e3o/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA0e9OO4blNmQYmb7oq_VCCoIfhBw"
   },
   {
-    "id": 1,
+    "id": 3,
     "title": "Django e VueJS #01 - arquivos estáticos via cdn",
     "tags": [
       "django",
@@ -24,7 +35,7 @@
     "thumbnail": "https://i.ytimg.com/vi/KOMER5MhBlY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDQC1fAIAzh3xNUiZY6lPsRK8yEDA"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Django e VueJS #02 - vue-cli e estáticos no Django",
     "tags": [
       "django",
@@ -34,7 +45,7 @@
     "thumbnail": "https://i.ytimg.com/vi/Ky6NddJTaMU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAlhslg4TkrHXLmXNMON8Qfrta5QQ"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Django e VueJS #03 - backend e frontend separados",
     "tags": [
       "django",
@@ -44,7 +55,7 @@
     "thumbnail": "https://i.ytimg.com/vi/FIyaGt6lNzU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB6-_rwMCVupyMTZD61i0lU_DDc0w"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Django e VueJS #04 - Django Rest Framework e VueJS",
     "tags": [
       "django",
@@ -55,14 +66,578 @@
     "thumbnail": "https://i.ytimg.com/vi/IkgG3piJ8KI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCKB8rpsQpI8BSXmgLmwUihpLgUqQ"
   },
   {
-    "id": 5,
-    "title": "Backend e Frontend - Live com Alefe Souza",
-    "tags": [
-      "django",
-      "drf",
-      "vuejs"
-    ],
-    "url": "https://www.youtube.com/watch?v=GAuyC5khFoc",
-    "thumbnail": "https://i.ytimg.com/vi/GAuyC5khFoc/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCmtoO1GKcSQtHFVbplX3EMiJDecw"
+    "id": 7,
+    "title": "Minicurso HTML e CSS #14 - CSS: ids, classes e seletores",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=xOTJpH0lKWM",
+    "thumbnail": "https://i.ytimg.com/vi/xOTJpH0lKWM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDVWMkRnqjBcnauSkuaoD84QZ4Kxg"
+  },
+  {
+    "id": 8,
+    "title": "Minicurso HTML e CSS #02 - Títulos e Subtítulos",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=tEsqtumE1A8",
+    "thumbnail": "https://i.ytimg.com/vi/tEsqtumE1A8/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDdpkei8jazWN8TWpfDai_BXQl8Xw"
+  },
+  {
+    "id": 9,
+    "title": "Minicurso HTML e CSS #16 - CSS: Alinhamento de texto",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=wYr3p_NNSS4",
+    "thumbnail": "https://i.ytimg.com/vi/wYr3p_NNSS4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB3dm8ezQ19ynKuG1xVWnx3qHERag"
+  },
+  {
+    "id": 10,
+    "title": "Minicurso HTML e CSS #18 - CSS: Bordas",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=fGaBdz6olqk",
+    "thumbnail": "https://i.ytimg.com/vi/fGaBdz6olqk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDm4KYmaLRrWStuPLdOouuSxub54Q"
+  },
+  {
+    "id": 11,
+    "title": "Minicurso HTML e CSS #29 - CSS: Introdução ao Bootstrap e Layoutit",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=o7ms-UbSjwg",
+    "thumbnail": "https://i.ytimg.com/vi/o7ms-UbSjwg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCCx_bdj-uta2y04uBUZ59LGfp-hA"
+  },
+  {
+    "id": 12,
+    "title": "Tutorial SQLite3 e Python3 - 1 de 10",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=Qe3N7jiGZAc",
+    "thumbnail": "https://i.ytimg.com/vi/Qe3N7jiGZAc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBvqGWM8ZUr3YMW86gJ8IaPGJhgvA"
+  },
+  {
+    "id": 13,
+    "title": "Minicurso HTML e CSS #08 - Emmet e Estrutura de um HTML",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=ekzReAu5tSs"
+  },
+  {
+    "id": 14,
+    "title": "Minicurso HTML e CSS #01 - Introdução",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=bO8LjvuQ91I",
+    "thumbnail": "https://i.ytimg.com/vi/bO8LjvuQ91I/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLA6UvsVKJfTIVQ_A8h5p1N0hUG8WQ"
+  },
+  {
+    "id": 15,
+    "title": "Minicurso HTML e CSS #12 - Formulários: Dropdown - select",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=st2VYtR3PA4",
+    "thumbnail": "https://i.ytimg.com/vi/st2VYtR3PA4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCiATLd66qm7marh4biF4JC4xpX-A"
+  },
+  {
+    "id": 16,
+    "title": "Minicurso HTML e CSS #09 - Formulários. Request, Response, GET e POST.",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=qpwVm6N12BU",
+    "thumbnail": "https://i.ytimg.com/vi/qpwVm6N12BU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLATUib-Kw2gw7nMUp9WZEoaRorqJQ"
+  },
+  {
+    "id": 17,
+    "title": "Minicurso HTML e CSS #27 - Chrome Dev Tools e Firefox",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=mS4t6O6yUTg",
+    "thumbnail": "https://i.ytimg.com/vi/mS4t6O6yUTg/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDizOh5PAYKxmC-EVHS1hz_sSkYiA"
+  },
+  {
+    "id": 18,
+    "title": "Minicurso HTML e CSS #24 - CSS: Hover",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=F0V0d1QRqq8",
+    "thumbnail": "https://i.ytimg.com/vi/F0V0d1QRqq8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAscQlcFNVhgJEF4Ck15s_j5iFCFw"
+  },
+  {
+    "id": 19,
+    "title": "Minicurso HTML e CSS #17 - CSS: Fontes",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=oqMwPWNCO3c",
+    "thumbnail": "https://i.ytimg.com/vi/oqMwPWNCO3c/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBrIqkotrllcwxaSARx_UYeLtEz3A"
+  },
+  {
+    "id": 20,
+    "title": "Minicurso HTML e CSS #13 - Introdução ao CSS",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=MyESnOI4RmU",
+    "thumbnail": "https://i.ytimg.com/vi/MyESnOI4RmU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDnrDEUGB_lEvfYNNo76Mkkh31chQ"
+  },
+  {
+    "id": 21,
+    "title": "Minicurso HTML e CSS #07 - Servidor local com Python",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=WGkNN2SZRKk",
+    "thumbnail": "https://i.ytimg.com/vi/WGkNN2SZRKk/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLB0tZqusQIfd11MljKcWBIwHvQuiQ"
+  },
+  {
+    "id": 22,
+    "title": "Minicurso HTML e CSS #22 - CSS: Display vs Visibility",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=T28AN1qOwpA",
+    "thumbnail": "https://i.ytimg.com/vi/T28AN1qOwpA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLC53Y9AeP-o_eiwvOMBcfN_Qznv5g"
+  },
+  {
+    "id": 23,
+    "title": "Minicurso HTML e CSS #23 - CSS is Awesome",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=XYWwr8ZJDFE",
+    "thumbnail": "https://i.ytimg.com/vi/XYWwr8ZJDFE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLB_X5_09VAfGVrVGzyj0zXWUtr1gQ"
+  },
+  {
+    "id": 24,
+    "title": "Minicurso HTML e CSS #15 - CSS: Unidades de medida",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=Go-0J3eMcJp",
+    "thumbnail": "https://i.ytimg.com/vi/Go-0J3eMcJ8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAzLPcW7a49a_rKS6MEhXKX4Zb7EA"
+  },
+  {
+    "id": 25,
+    "title": "Minicurso HTML e CSS #05 - Imagens",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=TFP30qVCtRQ",
+    "thumbnail": "https://i.ytimg.com/vi/TFP30qVCtRQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAB9q8ABHPslamPK48n5JA6i9k1cw"
+  },
+  {
+    "id": 26,
+    "title": "Minicurso HTML e CSS #19 - CSS: Margens",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=Mt29yiFIlFo",
+    "thumbnail": "https://i.ytimg.com/vi/Mt29yiFIlFo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAC6OyACMaz-W7hQqk-RIXHQXP7pw"
+  },
+  {
+    "id": 27,
+    "title": "Minicurso HTML e CSS #20 - CSS: Cores e Posicionamento",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=LmMlBkcwL5A",
+    "thumbnail": "https://i.ytimg.com/vi/LmMlBkcwL5A/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBoAgs-SueefUdev62Fel0qvmhjWw"
+  },
+  {
+    "id": 28,
+    "title": "Minicurso HTML e CSS #25 - CSS: Transformações",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=8vmxJ882sTY",
+    "thumbnail": "https://i.ytimg.com/vi/8vmxJ882sTY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDOBIfmA-nK5FC5mwIgE2HKA6ra5Q"
+  },
+  {
+    "id": 29,
+    "title": "Minicurso HTML e CSS #10 - Formulários: Tipos de campos",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=FTjZ5vRmcrU",
+    "thumbnail": "https://i.ytimg.com/vi/FTjZ5vRmcrU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCAtcFaWm9hDqIk0KpCITvWbT2gUQ"
+  },
+  {
+    "id": 30,
+    "title": "Minicurso HTML e CSS #11 - Formulários: Checkbox e Radio",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=9EmUYnkS-gY",
+    "thumbnail": "https://i.ytimg.com/vi/9EmUYnkS-gY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLA4SIl7Pn3-R8wdk-bBqkUiidS6HQ"
+  },
+  {
+    "id": 31,
+    "title": "Minicurso HTML e CSS #04 - Links",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=9OK8Hnx_dJI",
+    "thumbnail": "https://i.ytimg.com/vi/9OK8Hnx_dJI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAhsyeRLWUlSkHpb3UGnVYrIEguSg"
+  },
+  {
+    "id": 32,
+    "title": "Minicurso HTML e CSS #03 - Listas",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=BBc8Z2usEm8",
+    "thumbnail": "https://i.ytimg.com/vi/BBc8Z2usEm8/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCij5qLfj1XffvG-yDivNuWcYQr8w"
+  },
+  {
+    "id": 33,
+    "title": "Minicurso HTML e CSS #21 - CSS: Padding",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=7fRjzOWdyYA",
+    "thumbnail": "https://i.ytimg.com/vi/7fRjzOWdyYA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDZnm0KCKkDxGmUXYC3r904uFDbpQ"
+  },
+  {
+    "id": 34,
+    "title": "Minicurso HTML e CSS #06 - Tabelas",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=HetCy2Wahf0",
+    "thumbnail": "https://i.ytimg.com/vi/HetCy2Wahf0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAwbJlIeOEHvwDU90gkffTdtWxXyQ"
+  },
+  {
+    "id": 35,
+    "title": "Minicurso HTML e CSS #28 - Frameworks CSS",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=a4GQS1ENOFA",
+    "thumbnail": "https://i.ytimg.com/vi/a4GQS1ENOFA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDHb0677Xp4GVRWnx3-I12RknsG3A"
+  },
+  {
+    "id": 36,
+    "title": "Minicurso HTML e CSS #30 - CSS: Formulários com Bootstrap",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=0bofihyWet0",
+    "thumbnail": "https://i.ytimg.com/vi/0bofihyWet0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBqe60Q_9VjVVp2a6cj1BFo6bDazw"
+  },
+  {
+    "id": 37,
+    "title": "Minicurso HTML e CSS #26 - CSS: Alinhamento vertical e texto centralizado",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=2B5baQ8itfs",
+    "thumbnail": "https://i.ytimg.com/vi/2B5baQ8itfs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBjcZNSWrBUsMnckIQ0oQeliyZ-IA"
+  },
+  {
+    "id": 38,
+    "title": "1000+ inscritos e como criar o campo de busca do Google com HTML e CSS.",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=4-XdxNgV1TI",
+    "thumbnail": "https://i.ytimg.com/vi/4-XdxNgV1TI/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDVSdPDoG_QCj4XFRf7vQS4y6mOog"
+  },
+  {
+    "id": 39,
+    "title": "Introdução a Arquitetura do Django - Pyjamas 2019",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=XjXpwZhOKOs",
+    "thumbnail": "https://i.ytimg.com/vi/XjXpwZhOKOs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLD3syqz7AHytyhSBZy1t17hoKGcGQ"
+  },
+  {
+    "id": 40,
+    "title": "Esquenta Pyjamas 2019",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=viwQlAK76FA",
+    "thumbnail": "https://i.ytimg.com/vi/viwQlAK76FA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBpaN3JxnCEAT6BOY-6ZoCzUQmvYQ"
+  },
+  {
+    "id": 41,
+    "title": "Convite para o Pyjamas 2019",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=aE5RpsULnsk",
+    "thumbnail": "https://i.ytimg.com/vi/aE5RpsULnsk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCujNz0KTFyYgBXMsX-UIIWazcK8Q"
+  },
+  {
+    "id": 42,
+    "title": "Python Brasil 2019 em Ribeirão Preto",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=4Fz_2_hUuaU",
+    "thumbnail": "https://i.ytimg.com/vi/4Fz_2_hUuaU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLANbbesf8_pBn_7X_tRMSOZT5dBVQ"
+  },
+  {
+    "id": 43,
+    "title": "Estoque #58 somente produtos com estoque maior do que zero",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=kTjN3SK3-rw",
+    "thumbnail": "https://i.ytimg.com/vi/kTjN3SK3-rw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDRiGF5BLotuSCLJg8V9Hi5jgpcpQ"
+  },
+  {
+    "id": 44,
+    "title": "Estoque #57 Importando CSV com Pandas P2",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=INNM1pFDK4M",
+    "thumbnail": "https://i.ytimg.com/vi/INNM1pFDK4M/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDSZzuIuVex3DVvCjqeoLf3yw6OZA"
+  },
+  {
+    "id": 45,
+    "title": "Estoque #56 Importando CSV com Pandas P1",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=l7-lypZz95g",
+    "thumbnail": "https://i.ytimg.com/vi/l7-lypZz95g/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBZLppC5ddfLtZ5_RyLz880ryiY4Q"
+  },
+  {
+    "id": 46,
+    "title": "Estoque #55 Admin: Criando actions no Django Admin - exportando XLSX",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=dvCuHUewQ6U",
+    "thumbnail": "https://i.ytimg.com/vi/dvCuHUewQ6U/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCfuNGa3qZlTKTWl1u3QuV9GHGXrw"
+  },
+  {
+    "id": 47,
+    "title": "Estoque #54 Admin: Criando actions no Django Admin - exportando CSV",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=sScvDkpESBg",
+    "thumbnail": "https://i.ytimg.com/vi/sScvDkpESBg/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBiQl9sTS3-0P-t2RV5iPaK0uvA4A"
+  },
+  {
+    "id": 48,
+    "title": "Estoque #53 Admin: Exportando CSV e XLSX",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=7joRPY2ybcc",
+    "thumbnail": "https://i.ytimg.com/vi/7joRPY2ybcc/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCZ1QXgjPnSI2wvl1yNypIDuEBbWQ"
+  },
+  {
+    "id": 49,
+    "title": "Estoque #52 Admin: Importando CSV e XLSX",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=I7Icsd-MTE8",
+    "thumbnail": "https://i.ytimg.com/vi/I7Icsd-MTE8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCuHU9D7kqWrK6BY5_AICPB52Ktig"
+  },
+  {
+    "id": 50,
+    "title": "Estoque #51 Admin: Inserindo botões e inserindo JS",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=D1HBiKqMXQp",
+    "thumbnail": "https://i.ytimg.com/vi/D1HBiKqMXQk/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAFxs42cq6l0dhyje7YB7lcDiomJA"
+  },
+  {
+    "id": 51,
+    "title": "Estoque #50 Exportando planilhas Excel com Django",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=Y1xmINTSm0M",
+    "thumbnail": "https://i.ytimg.com/vi/Y1xmINTSm0M/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAgiH2qUb0Wze19F0_pFNMTN9sP3w"
+  },
+  {
+    "id": 52,
+    "title": "Estoque #49 P2 Importando planilhas Excel com Django",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=BN93DxFkOtI",
+    "thumbnail": "https://i.ytimg.com/vi/BN93DxFkOtI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAJdY3ZzHeXPB8ffLtcdYn92UNyFg"
+  },
+  {
+    "id": 53,
+    "title": "Estoque #48 P1 Importando planilhas Excel com Django",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=wrCanjjy21k",
+    "thumbnail": "https://i.ytimg.com/vi/wrCanjjy21k/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCzq-lK-uYDcL1VBT5kij0YNDuxjw"
+  },
+  {
+    "id": 54,
+    "title": "Estoque #47 Criando categorias de produtos",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=fo4TWOfX9VY",
+    "thumbnail": "https://i.ytimg.com/vi/fo4TWOfX9VY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLC1erz2W5gp9RF6RZw6WkOJp-dsMA"
+  },
+  {
+    "id": 55,
+    "title": "Estoque #46 corrigindo bug",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=-6YHN3dTzBQ",
+    "thumbnail": "https://i.ytimg.com/vi/-6YHN3dTzBQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLD7jX5c3sKPnHVTn9gLi3iOTuBTHA"
+  },
+  {
+    "id": 56,
+    "title": "Debugando código Python com ipdb + Django form com função (python, ipdb, django, form, breakpoint)",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=bUqsUrEEg44",
+    "thumbnail": "https://i.ytimg.com/vi/bUqsUrEEg44/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDziu0gS4ybKi0XEgICcbrviQfkpg"
+  },
+  {
+    "id": 57,
+    "title": "Estoque #44 CSV #03 Importando CSV InMemoryUploadedFile",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=rLPcFUJ0XDp",
+    "thumbnail": "https://i.ytimg.com/vi/rLPcFUJ0XDs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAcNpXTyv2CeDS4HqL8NdktQ0BnuA"
+  },
+  {
+    "title": "Estoque #42 CSV #01 Escrevendo CSV com Python",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=zn-MsfZ7KIp",
+    "thumbnail": "https://i.ytimg.com/vi/zn-MsfZ7KIY/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBSTgR8znntgJ8srnw_fE5q2nFZuA"
+  },
+  {
+    "id": 58,
+    "title": "Estoque #45 CSV #04 Exportando CSV com Django",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=xSl2HIzTTh8",
+    "thumbnail": "https://i.ytimg.com/vi/xSl2HIzTTh8/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCedhU9pMGXurAg5q-Mpz4DExD23A"
+  },
+  {
+    "id": 59,
+    "title": "Estoque #43 CSV #02 Importando CSV com Django",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=xP6280zkIbo",
+    "thumbnail": "https://i.ytimg.com/vi/xP6280zkIbo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAA-i9wv9zRFsyJl7PIzsT-RvQ4Tw"
+  },
+  {
+    "id": 60,
+    "title": "Deploy PythonAnywhere - deploy Django tutorial",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=nOcXCPayd-p",
+    "thumbnail": "https://i.ytimg.com/vi/nOcXCPayd-o/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDpQaP-Hlp6uBkbv8f1rtBX46i6LA"
+  },
+  {
+    "id": 61,
+    "title": "Deploy Heroku Ultimato - deploy Django tutorial",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=Qt2y38eZOwp",
+    "thumbnail": "https://i.ytimg.com/vi/Qt2y38eZOw4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBcPEIJWhDS84upKgO8COMlIEMpuQ"
+  },
+  {
+    "id": 62,
+    "title": "Deploy Trailer Ultimato",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=VW6H-4dgyZk",
+    "thumbnail": "https://i.ytimg.com/vi/VW6H-4dgyZk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAYi73FZMyuFTLSmVkoF7eao9C1fw"
+  },
+  {
+    "id": 63,
+    "title": "Deploy teaser ultimato",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=uEd5l6WhC14",
+    "thumbnail": "https://i.ytimg.com/vi/uEd5l6WhC14/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDxtt8JMJ73oaW1_85-_UUHlCdkFA"
+  },
+  {
+    "id": 64,
+    "title": "Django: projeto simples - parte 2 - tutorial Django",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=3YoNCn4Czx4",
+    "thumbnail": "https://i.ytimg.com/vi/3YoNCn4Czx4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBSCLlYz4FnH022yfoWNJSrUTtsqg"
+  },
+  {
+    "id": 65,
+    "title": "Django: projeto simples - parte 1 - tutorial Django",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=DEhzECzf7_g",
+    "thumbnail": "https://i.ytimg.com/vi/DEhzECzf7_g/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAmpkgvu_BvgF34yX8Sl1shBRm3dg"
+  },
+  {
+    "id": 66,
+    "title": "Criando um site e hospedando de graça no Github pages",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=6-vH74gVe7p",
+    "thumbnail": "https://i.ytimg.com/vi/6-vH74gVe78/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCzwXUijumOUAuQNjqTjVwqn5E1iQ"
+  },
+  {
+    "id": 67,
+    "title": "Markdown: criando um site em markdown online no Github pages.",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=r8vhA3zHDbp",
+    "thumbnail": "https://i.ytimg.com/vi/r8vhA3zHDb8/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCAnh8b--nkNuFeOqr8PArNkNBxoA"
+  },
+  {
+    "id": 68,
+    "title": "Django: herança de templates e ORM do Django",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=jN9G8_jT2tg",
+    "thumbnail": "https://i.ytimg.com/vi/jN9G8_jT2tg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCBmfXeIl1rEhK6Yiqf7zUmgRD01g"
+  },
+  {
+    "id": 69,
+    "title": "Os Guardiões do Python",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=kz8Z86y4c5M",
+    "thumbnail": "https://i.ytimg.com/vi/kz8Z86y4c5M/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAweb1V1x-c-56RosGVoTeT5w-p5Q"
+  },
+  {
+    "id": 70,
+    "title": "Estoque #41 Paginação",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=seLj1-92Agp",
+    "thumbnail": "https://i.ytimg.com/vi/seLj1-92Ag8/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBtHZVDGIsS2mNVXMchaCosiGOaEA"
+  },
+  {
+    "id": 71,
+    "title": "Estoque #40 select2",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=XF_sJjcaERp",
+    "thumbnail": "https://i.ytimg.com/vi/XF_sJjcaER0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCOGk6q6upf2D7K0Rs6s9ki--ijZw"
+  },
+  {
+    "id": 72,
+    "title": "Estoque #39 Campo de busca",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=TOF9MCUkEcp"
+  },
+  {
+    "id": 73,
+    "title": "Estoque #38 Desabilitar o campo 'saldo'",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=OR3dBb2wcXp"
+  },
+  {
+    "id": 74,
+    "title": "Estoque #37 Logout",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=KhAYEfocHq4"
+  },
+  {
+    "id": 75,
+    "title": "Estoque #36 Entrada e Saida com usuário logado - ipdb e django-extensions",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=enssFnL8wbp"
+  },
+  {
+    "id": 76,
+    "title": "Estoque #35 Login",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=laTR5D_rKS8"
+  },
+  {
+    "id": 77,
+    "title": "Estoque #34 Refatorando: Separando as urls de entrada e saida",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=5Uc2jnijlrw"
+  },
+  {
+    "id": 78,
+    "title": "Estoque #33 Refatorando: Fazendo apenas um EstoqueDetail",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=I4OazSxjUI8"
+  },
+  {
+    "id": 79,
+    "title": "Estoque #32 Refatorando: Transformando estoque_entrada_detail em CBV",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=Sddyuk27xsw"
+  },
+  {
+    "id": 80,
+    "title": "Estoque #31 Refatorando: Transformando estoque_entrada_list em CBV",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=4yeL00Vkick"
+  },
+  {
+    "id": 81,
+    "title": "Estoque #30 Refatorando: estoque_detail",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=dtb_q9AdaO0"
+  },
+  {
+    "id": 82,
+    "title": "Estoque #29 Refatorando: estoque_list",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=4JMXrsjNcd0"
+  },
+  {
+    "id": 83,
+    "title": "Estoque #28 Refatorando: estoque_add",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=0QdLE9jPbMo"
+  },
+  {
+    "id": 84,
+    "title": "Estoque #27 Tirando o input 'movimento' do form",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=KCs5TC_FTX8"
+  },
+  {
+    "id": 85,
+    "title": "Estoque #26 Separando os estáticos",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=mb-1C1RtCXk"
+  },
+  {
+    "id": 86,
+    "title": "Estoque #25 Saida: estoque_saida_form.html",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=tRnokb4nj8Q"
+  },
+  {
+    "id": 87,
+    "title": "Estoque #24 Saida: estoque_saida_detail.html",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=Aw-RVd8TycA"
+  },
+  {
+    "id": 88,
+    "title": "Estoque #23 Saida: estoque_saida_list.html",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=UMZc0fp5cOo"
+  },
+  {
+    "id": 89,
+    "title": "Estoque #22 Managers",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=5NzG2dqRp9Y"
+  },
+  {
+    "id": 90,
+    "title": "Minicurso HTML e CSS #03 - Listas",
+    "tags": [],
+    "url": "https://www.youtube.com/watch?v=BBc8Z2usEm8",
+    "thumbnail": "https://i.ytimg.com/vi/BBc8Z2usEm8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&amp;rs=AOn4CLA8piUSkWRaPKO0s5HYnnn0APvzFQ"
   }]
 }
